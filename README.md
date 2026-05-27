@@ -1,7 +1,4 @@
-<div align="center">
-  <img width="100%" alt="FoloUp AI Banner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.1);" />
-  
-  <br />
+
   
   # 🎙️ FoloUp: Next-Gen AI Talent Acquisition & Proctoring Room
   
