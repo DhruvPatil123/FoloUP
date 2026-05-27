@@ -212,5 +212,5 @@ FoloUp takes enterprise security and candidate data protection seriously:
 ---
 
 <div align="center">
-  <p>🚀 Created securely by FoloUp AI Systems. Powered by Google Gemini 3.5 Flash.</p>
+  <p>🚀 Created securely by Dhruvvv, The FoloUp AI Systems.</p>
 </div>
